@@ -1,0 +1,16 @@
+{
+    "name": "logo-maker",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    },
+    "dependencies": {
+      "inquirer": "^9.2.12"
+    }
+  }
+  
